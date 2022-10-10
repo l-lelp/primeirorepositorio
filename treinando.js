@@ -11,3 +11,5 @@ let respostaRemetente = 'soube que nesse horário o restaurante já está fechad
 let escopo = 'quando o restaurante irá abrir?'
 
 console.log(assunto, respostaRemetente, escopo) * console.log(Email,Nome)
+
+//
