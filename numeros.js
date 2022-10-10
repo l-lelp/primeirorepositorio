@@ -15,3 +15,5 @@ let divisa = (a + b - d)/1*d
 
 console.log(media)
 console.log(divisa)
+console.log(media) - console.log(divisa)
+console.log(15 - 13 - 12 - 11 * 44040400 - 13 - 15 * 0 - 434 + 545 * 12)
