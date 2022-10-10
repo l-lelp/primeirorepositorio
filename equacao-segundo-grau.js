@@ -14,3 +14,4 @@ const y = 10
 const h = 3
 
 console.log(x + y*x - h**h)
+console.log(x-y+x-y+x-y+x-y*3-15+x-y+x-y+x-y+3)
