@@ -13,12 +13,6 @@ const valorFinal = valor*(1 - desconto/100)
 
 console.log(valorFinal)
 
-function debug(variavel) {
-    const tipo = typeof variavel;
-
-    console.log(`[DEBUG] Valor: $(variavel) - Tipo: $(tipo}`);
-}
-
 function calculaDesconto(valor, desconto) {
     const valorFinal = valor*(1 - desconto/100)
     return valorFinal.toFixed(2)
@@ -26,4 +20,5 @@ function calculaDesconto(valor, desconto) {
 
 const valorComDesconto = calculaDesconto(1000, 95)
 
-console.log (valorComDesconto)
+console.log(valorComDesconto)
+console.log(valor)
