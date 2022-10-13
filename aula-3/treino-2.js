@@ -10,11 +10,11 @@ console.log(valorFinal)
 //2º passo: Declarar a função
 
 function calculadoraDeDescontos(valor, desconto) {
-    const ValorFinal = valor * (1 - desconto/100)
-    return ValorFinal.mathRandom
+    const ValorFinal = valor*(1 - desconto/100)
+    return Math.round(ValorFinal)
 }
 
-const valorComDesconto = calculadoraDeDescontos
+const valorComDesconto = calculadoraDeDescontos(10000, 33)
 
 console.log(valorComDesconto)
 
