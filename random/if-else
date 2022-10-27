@@ -1,0 +1,12 @@
+// de novo de novo
+
+const data = new Date()
+const dataAtual = data.getFullYear()
+anoNascimento = 2004
+idade = dataAtual - anoNascimento
+
+if (idade >= 18) {
+    console.log("Somos a diversão da noite")
+} else {
+    console.log("TaInShock liga pro batiman")
+}

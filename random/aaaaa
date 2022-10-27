@@ -1,0 +1,13 @@
+//de novo
+
+
+const anoNascimento = 2005;
+const anoAtual = new Date();
+const ano = anoAtual.getFullYear
+const idade = ano - anoNascimento
+
+if (idade >= 18) {
+    console.log("Vou te roubar :O ")
+} else {
+    console.log("Infelizmente não conseguimos te roubar. Tente novamente mais tarde :D")
+}
