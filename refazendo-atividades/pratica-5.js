@@ -1,5 +1,4 @@
 SOLUÇÃO:
-*/
 
 const nome = "Maria Augusta"
 const email = "mariaaugusta@gmail.com"

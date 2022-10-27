@@ -1,5 +1,4 @@
 SOLUÇÃO:
-*/
 
 const MILHAPARAKM = 1.60934
 const distanciaTerraLuaEmMilhas = 238900
