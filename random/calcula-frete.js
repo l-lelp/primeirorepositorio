@@ -4,13 +4,13 @@
 
 function valorDoFrete (frete, piscina) {
    
-    let valorDaPiscina = (2000)
+    let valorDaPiscina = (2200)
     const valorFinal = frete * (6.5) + valorDaPiscina
     let resultadoEsperado = console.log(`Olá, Sarah. O valor total com a entrega será: R$ ${valorFinal}. Boas vendas. =)`)
     return valorFinal
 
 }
 
-valorDoFrete (90)
+valorDoFrete (283)
 /* Inserir o valor da km entre parênteses.
 */
