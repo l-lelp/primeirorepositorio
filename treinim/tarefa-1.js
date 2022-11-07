@@ -6,3 +6,8 @@ const profissao = "Autônomo"
 const idade = 21
 const lugarQueSonhoConhecer = "Balneário Camboriú"
 
+console.log(typeof(nome))
+console.log(typeof(email))
+console.log(typeof(profissao))
+console.log(typeof(idade))
+console.log(typeof(lugarQueSonhoConhecer))
